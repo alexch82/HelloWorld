@@ -2,6 +2,8 @@
  * hello.cpp
  * Test repo for github.com
  * Тестовый репозиторий для отработки навыков работы с git
+ * 
+ * Это комментарий с github.com
  *
  * Copyright 2017 Черноус Алексей <alexch82@ya.ru>
  * 
