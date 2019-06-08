@@ -5,6 +5,8 @@
  * 
  * Это комментарий с github.com
  *
+ * А это локальный комментарий
+ *
  * Copyright 2017 Черноус Алексей <alexch82@ya.ru>
  * 
  * This program is free software; you can redistribute it and/or modify
